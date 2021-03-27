@@ -1,6 +1,6 @@
 # Simple-Notes-Android-app
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](Screenshot/s1.jpg?raw=true "Optional Title")
 
 **Which has the following features:**
 

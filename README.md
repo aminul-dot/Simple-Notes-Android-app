@@ -1,5 +1,7 @@
 # Simple-Notes-Android-app
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 **Which has the following features:**
 
 1. Use only 1 activity for the entire app. Use fragments for different screens.

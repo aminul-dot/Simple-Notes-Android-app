@@ -1,7 +1,5 @@
 # Simple-Notes-Android-app
 
-![Alt text](Screenshot/s1.jpg?raw=true "Simple Note App")
-
 **Which has the following features:**
 
 1. Use only 1 activity for the entire app. Use fragments for different screens.
@@ -13,3 +11,5 @@
 7. Swipe to delete
 
 **This assignment is designed to test your understanding of Google login API, activities & fragments, shared preferences, SQLite, and Recyclerviews.**
+
+![Alt text](Screenshot/s1.jpg?raw=true "Simple Note App")
